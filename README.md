@@ -5,7 +5,7 @@
 On an Arch-based distribution as root, run the following:
 
 ```
-curl -LO https://github.com/adamkagdi/AARBS/AARBS.sh
+curl -LO https://raw.githubusercontent.com/adamkagdi/AARBS/master/static/aarbs.sh
 sh AARBS.sh
 ```
 
